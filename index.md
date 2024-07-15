@@ -38,5 +38,5 @@ Alt
 Text](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAOvgAADr4B6kKxwAAAABNJREFUKFNj/M+ADzDhlWUYqdIAQSwBE8U+X40AAAAASUVORK5CYII=)
 
 
-% :::{dgt-mon-asset} a7bff1bf-727c-481a-8d65-2683f5b0c9d8
+% :::{dgt-mon-asset} 2ada91bc-07b4-4cc7-bcd7-4d6b23d5b9f1
 
