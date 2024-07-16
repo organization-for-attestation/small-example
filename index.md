@@ -31,12 +31,8 @@ Even more content. An example of an image is placed below.
 
 **Figure 1:** An example of an image.
 
-![The
-
-Alt
-
-Text](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAOvgAADr4B6kKxwAAAABNJREFUKFNj/M+ADzDhlWUYqdIAQSwBE8U+X40AAAAASUVORK5CYII=)
+![The  Alt  Text](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAOvgAADr4B6kKxwAAAABNJREFUKFNj/M+ADzDhlWUYqdIAQSwBE8U+X40AAAAASUVORK5CYII=)
 
 
-% :::{dgt-mon-asset} c9b9999f-5c88-481a-b131-c8d5384cdd21
+% :::{dgt-mon-asset} 0f9dc74e-5dfc-4084-8343-a2f6aa9df60b
 
