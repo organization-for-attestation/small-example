@@ -34,5 +34,5 @@ Even more content. An example of an image is placed below.
 ![The  Alt  Text](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAOvgAADr4B6kKxwAAAABNJREFUKFNj/M+ADzDhlWUYqdIAQSwBE8U+X40AAAAASUVORK5CYII=)
 
 
-% :::{dgt-mon-asset} 0f9dc74e-5dfc-4084-8343-a2f6aa9df60b
+% :::{dgt-mon-asset} af93520d-ff64-40a3-bfcd-7b71350667af
 
